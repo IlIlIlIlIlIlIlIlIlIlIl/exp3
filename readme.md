@@ -12,7 +12,7 @@ git clone https://github.com/hoitab/TFLClassify.git
 
 运行start模块
 
-
+![image](https://github.com/IlIlIlIlIlIlIlIlIlIlIl/exp3/blob/main/TFLClassify/image/1.png?raw=true)
 
 
 
@@ -24,7 +24,7 @@ git clone https://github.com/hoitab/TFLClassify.git
 
 导入成功， 生成摘要信息 
 
-
+![image](https://github.com/IlIlIlIlIlIlIlIlIlIlIl/exp3/blob/main/TFLClassify/image/2.png?raw=true)
 
 
 
@@ -91,3 +91,6 @@ for (i in 0..MAX_RESULT_DISPLAY-1){
 
  允许应用获取手机摄像头的权限 
 
+运行结果如下
+
+![image](https://github.com/IlIlIlIlIlIlIlIlIlIlIl/exp3/blob/main/TFLClassify/image/3.png?raw=true)
